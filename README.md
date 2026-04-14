@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hola, soy Edmundo Pacheco
 
-<!--
-**mundopacheco/mundopacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Matemático y M.Sc. en Ciencas de la Complejidad
+🏢 Actualmente trabajando en BBVA  
+🚀 Interesado en AI Analytics y el Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- Python
+- ADA (AWS)
+- Git & GitHub
+
+---
+
+## 📌 En qué estoy trabajando
+
+- Automatización del flujo de mapeo de Namings utilizando agentes y código
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- AWS
+- Mejores prácticas de CI/CD  
+- Proceso de Ingestas y CdU
+
+---
+
+## 📫 Contacto
+
+- 📧 edmundo.pacheco@bbva.com
+- 💼 LinkedIn: *linkedin.com/in/edmundo-pacheco-blas-472aab188*
+
+---
+
+## ⚡ Fun fact
+
+Siempre optimizando workflows y evitando conflictos de merge 😄
